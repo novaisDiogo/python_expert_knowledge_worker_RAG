@@ -1,0 +1,11 @@
+# Solution: Acne
+- **Overview**: Acne occurs when pores become clogged with oil, dead skin, and bacteria, leading to pimples and inflammation.
+- **Key Ingredients**:
+  - Salicylic acid (exfoliates inside pores)
+  - Niacinamide (reduces oil and redness)
+  - Zinc (calms inflammation)
+  - Retinoids (increase cell turnover)
+- **Routine Tips**:
+  - Gentle cleansing twice a day
+  - Non-comedogenic moisturizer
+  - Daily broad-spectrum sunscreen
